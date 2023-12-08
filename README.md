@@ -1,16 +1,31 @@
-# chatui
+# Chat App UI
 
-A new Flutter project.
+Chat app UI, so here is my conversation with elon, kevin, mark, bill, steve jobs
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#### Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  <tr>
+    <td>Home Page</td>
+    <td>chat with Musk</td>
+    <td>chat with Musk</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/screen_3.png" width=270 height=480></td>
+    <td><img src="screenshots/screen_4.png" width=270 height=480></td>
+    <td><img src="screenshots/screen_5.png" width=270 height=480></td>
+  </tr>
+ </table>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td>chat with Musk</td>
+    <!-- <td>Home Page</td> -->
+  </tr>
+  <tr>
+    <td><img src="screenshots/screen_6.png" width=270 height=480></td>
+    <!-- <td><img src="screenshots/screen_5.png" width=270 height=480></td> -->
+  </tr>
+ </table>

@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
 
-        brightness: Brightness.dark,
+        // brightness: Brightness.dark,
         leading: Icon(Icons.menu),
         title: Text("Inbox"),
         actions: [
